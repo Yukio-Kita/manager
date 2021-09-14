@@ -1,0 +1,26 @@
+               #include "c:/vcast/2021sp3/mingw/include/math.h"
+               float g_result = 0;
+               float Add( float x, float y)
+               {
+1 0     ( )    Add
+                   g_result = x + y;
+                   return(g_result);
+               }
+               float Subtract( float x, float y)
+               {
+2 0     ( )    Subtract
+                   g_result = x - y;
+                   return(g_result);
+               }
+               float Multiply( float x, float y)
+               {
+3 0     ( )    Multiply
+                   g_result = x * y;
+                   return(g_result);
+               }
+               float Divide( float x, float y)
+               {
+4 0     ( )    Divide
+                   g_result = x / y;
+                   return(g_result);
+               }

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<basis_paths xml_basis_paths_version="1.0" basis_paths="TRUE" edg="Y" checksum="1227119391" handle_ternary="Y" handle_nested_ternary="Y" cover_declarations="Y" cover_headers="N" basis_paths_for_constant_branches="Y">
+  <subprogram index="1" name="Add" parameterized="Add(float,float)float" canonical="" mangled="Add" is_virtual_function="0" class_member="FALSE" testable="TRUE" complexity="1">
+    <listing_start>3</listing_start>
+    <listing_end>8</listing_end>
+    <test_path index="1"/>
+    <script>TEST.VALUE:math.Add.x:&lt;&lt;MIN&gt;&gt;
+TEST.VALUE:math.Add.y:&lt;&lt;MIN&gt;&gt;
+</script>
+  </subprogram>
+  <subprogram index="2" name="Subtract" parameterized="Subtract(float,float)float" canonical="" mangled="Subtract" is_virtual_function="0" class_member="FALSE" testable="TRUE" complexity="1">
+    <listing_start>9</listing_start>
+    <listing_end>14</listing_end>
+    <test_path index="1"/>
+    <script>TEST.VALUE:math.Subtract.x:&lt;&lt;MIN&gt;&gt;
+TEST.VALUE:math.Subtract.y:&lt;&lt;MIN&gt;&gt;
+</script>
+  </subprogram>
+  <subprogram index="3" name="Multiply" parameterized="Multiply(float,float)float" canonical="" mangled="Multiply" is_virtual_function="0" class_member="FALSE" testable="TRUE" complexity="1">
+    <listing_start>15</listing_start>
+    <listing_end>20</listing_end>
+    <test_path index="1"/>
+    <script>TEST.VALUE:math.Multiply.x:&lt;&lt;MIN&gt;&gt;
+TEST.VALUE:math.Multiply.y:&lt;&lt;MIN&gt;&gt;
+</script>
+  </subprogram>
+  <subprogram index="4" name="Divide" parameterized="Divide(float,float)float" canonical="" mangled="Divide" is_virtual_function="0" class_member="FALSE" testable="TRUE" complexity="1">
+    <listing_start>21</listing_start>
+    <listing_end>26</listing_end>
+    <test_path index="1"/>
+    <script>TEST.VALUE:math.Divide.y:&lt;&lt;MIN&gt;&gt;
+TEST.VALUE:math.Divide.x:&lt;&lt;MIN&gt;&gt;
+</script>
+  </subprogram>
+</basis_paths>

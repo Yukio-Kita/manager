@@ -1,0 +1,13 @@
+--------------------------------------------------------------------------------
+Test Script Log
+--------------------------------------------------------------------------------
+(I) @LINE: 1
+    >>> Opening script file C:\VCAST\2021sp1\Tutorial\c\Place_Order_001.tst
+(I) @LINE: 25
+    >>> Processing Test Case: Place_Order.001
+(S) @LINE: 34
+    >>> Processed Test Case: Place_Order.001
+(S) @LINE: 34
+    >>> Script processing completed
+
+

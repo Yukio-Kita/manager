@@ -1,0 +1,20 @@
+--------------------------------------------------------------------------------
+Environment Overview
+--------------------------------------------------------------------------------
+
+
+
+
+  Environment Name:    MANAGER
+  Environment Status:  Normal
+  Environment Version: REVISION_2021_ANON_STRUCT_CTOR_SUPPORT
+  Environment Build Type: Full
+  Coverage Status:     Not Initialized
+  Language:            C
+  Compiler Name:       VectorCAST MinGW_C
+  White Box:           Yes
+  Search List:         C:\VCAST\2021sp1\Tutorial\c  (testable)
+  Units Under Test:    manager
+  Stub List:           uut_prototype_stubs
+  Stub None (Source Files): None
+

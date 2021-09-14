@@ -1,0 +1,25 @@
+--------------------------------------------------------------------------------
+Test Script Log
+--------------------------------------------------------------------------------
+(I) @LINE: 1
+    >>> Opening script file C:\Git_tutorial\vcast\Tutorial\build\697635216\MATH\MATH_auto.tst
+(I) @LINE: 14
+    >>> Processing Test Case: BASIS-PATH-001
+(S) @LINE: 21
+    >>> Processed Test Case: BASIS-PATH-001
+(I) @LINE: 27
+    >>> Processing Test Case: BASIS-PATH-001
+(S) @LINE: 34
+    >>> Processed Test Case: BASIS-PATH-001
+(I) @LINE: 40
+    >>> Processing Test Case: BASIS-PATH-001
+(S) @LINE: 47
+    >>> Processed Test Case: BASIS-PATH-001
+(I) @LINE: 53
+    >>> Processing Test Case: BASIS-PATH-001
+(S) @LINE: 60
+    >>> Processed Test Case: BASIS-PATH-001
+(S) @LINE: 61
+    >>> Script processing completed
+
+
